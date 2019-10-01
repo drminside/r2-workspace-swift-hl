@@ -1,3 +1,9 @@
 [submodule "r2-testapp-swift"]
 	path = r2-testapp-swift
-url=https://github.com/readium/r2-testapp-swift.git
+url=https://github.com/drminside/r2-testapp-swift-hl.git
+[submodule "r2-navigator-swift"]
+	path = r2-navigator-swift
+	url = https://github.com/drminside/r2-navigator-swift-hl.git
+[submodule "r2-shared-swift"]
+	path = r2-shared-swift
+	url = https://github.com/drminside/r2-shared-swift-hl.git
