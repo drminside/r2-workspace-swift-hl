@@ -16,7 +16,7 @@ You pick this branch if are an integrator and all you need is to quickly get sta
 
 ### Setup your workspace
 
-1. git clone --recurse-submodules -b int/highlight https://github.com/drminside/r2-workspace-swift-hl.git r2-workspace-swift
+1. git clone --recurse-submodules -b dev/highlights https://github.com/drminside/r2-workspace-swift-hl.git r2-workspace-swift
 2. run **carthage update --platform ios** on r2-testapp-swift
 3. run **carting update** on r2-testapp-swift
 4. open **r2-workspace-swift.xcworkspace**
